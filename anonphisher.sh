@@ -143,8 +143,8 @@ echo "Updating now..!!" | lolcat
 sleep 1
 cd $HOME || cd /data/data/com.termux/files/home
 rm -rf anonphisher
-git clone https://github.com/TermuxHackz/anonphisher
-cd anonphisher
+git clone https://github.com/Darkwolfrabin/49tool
+cd 49tool
 chmod 777 *
 bash setup
 bash install.sh
