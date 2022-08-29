@@ -11,6 +11,11 @@ git clone https://github.com/Darkwolfrabin/49tool.git
 
 cd 49tool
 
+bash setup
+
+
+bash install.sh
+
 
 bash anonphisher.sh
 
